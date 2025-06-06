@@ -18,7 +18,7 @@ Aldin AI LLC (White Lake, MI) is a founder-led, pre-seed startup building privac
 
 | Project | One-liner | Tech Highlights |
 |---------|-----------|-----------------|
-| **Project Genesis** (formerly *Nexus*) | Lake-native engine that auto-curates schemas, generates privacy-preserving synthetic data, and redistributes it back to S3. | Python, PyTorch, AWS (S3, Lambda), differential privacy, GAN/transformer synthesis, schema-aware validation |
+| **Project Genesis** | Adaptable engine that auto-curates schemas, generates privacy-preserving synthetic data, and redistributes it back to S3. | Python, PyTorch, AWS (S3, Lambda), differential privacy, GAN/transformer synthesis, schema-aware validation |
 | **Project ASHER** | Speech-enabled K-12 assistant with avatar, cultural safeguards, and test-prep alignment (MEAP, ACT, SAT). | LLM fine-tuning, vector knowledge-base, TTS/STT, parental content filters, future AR/hologram interface |
 
 ---
